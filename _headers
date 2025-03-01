@@ -1,3 +1,19 @@
 /*.gz
   Content-Encoding: gzip
   Cache-Control: public, max-age=31536000
+
+/Build/*.wasm.gz
+  Content-Type: application/wasm
+  Content-Encoding: gzip
+
+/Build/*.js.gz
+  Content-Type: application/javascript
+  Content-Encoding: gzip
+
+/Build/*.data.gz
+  Content-Type: application/octet-stream
+  Content-Encoding: gzip
+
+/Build/*.symbols.gz
+  Content-Type: application/octet-stream
+  Content-Encoding: gzip
