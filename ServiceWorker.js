@@ -1,9 +1,9 @@
 const cacheName = "Sergey-Save Oleg-0.3";
 const contentToCache = [
-    "Build/readyv3.loader.js",
-    "Build/readyv3.framework.js.gz",
-    "Build/readyv3.data.gz",
-    "Build/readyv3.wasm.gz",
+    "Build/readyv5.loader.js",
+    "Build/readyv5.framework.js.gz",
+    "Build/readyv5.data.gz",
+    "Build/readyv5.wasm.gz",
     "TemplateData/style.css"
 
 ];
